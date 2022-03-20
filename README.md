@@ -3,6 +3,6 @@
 <img width="516" src="https://github.com/YamamotoDesu/SideMenuDemo/blob/main/Gif/simpleSideMenu.gif">
 
 ## [How to Implement SideMenu](https://github.com/jonkykong/SideMenu)
-```swift
+```ruby
   pod 'SideMenu'
 ```
